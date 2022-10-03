@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle finallydoneit",
+        "command": "finallydoneit:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "finallydoneit",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "finallydoneit:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

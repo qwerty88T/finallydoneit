@@ -1,0 +1,21 @@
+{
+  "name": "finallydoneit",
+  "main": "./lib/finallydoneit",
+  "version": "0.0.0",
+  "description": "YES AHHH!!!! short description of your package",
+  "keywords": ["BJJJ","AHHHH"
+  ],
+  "activationCommands": {
+    "atom-workspace": "finallydoneit:toggle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwerty88T/finallydoneit.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
