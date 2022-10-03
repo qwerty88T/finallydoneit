@@ -3,8 +3,7 @@
   "main": "./lib/finallydoneit",
   "version": "1.0.0",
   "description": "YES AHHH!!!! short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "finallydoneit:toggle"
   },
@@ -16,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
