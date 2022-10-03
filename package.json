@@ -3,7 +3,7 @@
   "main": "./lib/finallydoneit",
   "version": "0.0.0",
   "description": "YES AHHH!!!! short description of your package",
-  "keywords": ["BJJJ","AHHHH"
+  "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "finallydoneit:toggle"
