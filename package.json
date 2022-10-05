@@ -7,10 +7,7 @@
   "activationCommands": {
     "atom-workspace": "finallydoneit:toggle"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/qwerty88T/finallydoneit.git"
-  },
+  "repository": "https://github.com/qwerty88T/finallydoneit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
